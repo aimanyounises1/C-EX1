@@ -11,4 +11,8 @@ int isPrime(int);
 int isStrong(int);
 
 int reverse(int);
+
+int check_if_Armstrong(int);
+
+int factorial(int);
 #endif
